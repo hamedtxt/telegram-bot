@@ -1,5 +1,1 @@
-flask
-python-telegram-bot==20.8
-pydub
-requests
-flask-cors
+fastapi>=0.100.0uvicorn>=0.22.0pydantic>=2.0.0
